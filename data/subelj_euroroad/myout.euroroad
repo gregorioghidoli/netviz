@@ -1,0 +1,90 @@
+% sym unweighted
+% 1417 1174 1174
+Aosta,Ivrea
+Ivrea,Vercelli
+Ivrea,Torino
+Vercelli,Alessandria
+Alessandria,Genova
+Alessandria,Torino
+Alessandria,Asti
+Grosseto,Roma
+Grosseto,Pisa
+Pisa,La Spezia
+Buonfornello,Palermo
+Genova,Alessandria
+Sassari,Cagliari
+Sassari,Olbia
+Como,Milano
+Milano,Piacenza
+Milano,Torino
+Milano,Alessandria
+Milano,Brescia
+Milano,Gravellona Toce
+Piacenza,Parma
+Parma,Modena
+Alcamo,Mazara del Vallo
+Palermo,Alcamo
+Parma,La Spezia
+Modena,Verona
+Modena,Bologna
+Firenze,Roma
+Firenze,Bologna
+Roma,Pescara
+Fortezza,Bolzano
+Fortezza,San Candido
+Bolzano,Trento
+Trento,Verona
+Verona,Mestre
+Verona,Brescia
+Bologna,Cesena
+Cesena,Perugia
+Cesena,Ravenna
+Cesena,Rimini
+Perugia,Roma
+Roma,Napoli
+Napoli,Salerno
+Napoli,Avellino
+Salerno,Sicignano degli Alburni
+Salerno,Avellino
+Sicignano degli Alburni,Cosenza
+Sicignano degli Alburni,Potenza
+Cosenza,Lamezia
+Lamezia,Reggio Calabria
+Reggio Calabria,Catanzaro
+Catanzaro,Crotone
+Crotone,Metaponto
+La Spezia,Genova
+Genova,Savona
+Cosenza,Crotone
+Messina,Catania
+Messina,Palermo
+Catania,Siracusa
+Catania,Enna
+Siracusa,Gela
+Gela,Mazara del Vallo
+Tarvisio,Udine
+Udine,Mestre
+Udine,Trieste
+Mestre,Ravenna
+Rimini,Fano
+Fano,Ancona
+Fano,Arezzo
+Ancona,Pescara
+Pescara,Canosa di Puglia
+Canosa di Puglia,Bari
+Canosa di Puglia,Benevento
+Bari,Brindisi
+Bari,Taranto
+Brindisi,Taranto
+Susa,Torino
+Torino,Savona
+Alessandria,Brescia
+Metaponto,Taranto
+Metaponto,Potenza
+Cuneo,Asti
+Pisa,Bologna
+Grosseto,Arezzo
+Avellino,Benevento
+Lamezia,Catanzaro
+Buonfornello,Enna
+Alcamo,Trapani
